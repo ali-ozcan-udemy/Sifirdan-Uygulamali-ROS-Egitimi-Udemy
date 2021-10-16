@@ -3,7 +3,7 @@
 ### Sıfırdan Uygulamalı ROS Eğitimi, Udemy, En Düşük Fiyat İndirimi:
 
 #### İndirim Linki (Haziran, 2021)
-https://www.udemy.com/course/sifirdan-uygulamali-ros-egitimi/?couponCode=EYLUL001
+https://www.udemy.com/course/sifirdan-uygulamali-ros-egitimi/?couponCode=EKIM001
 
 
 #### Açıklama
